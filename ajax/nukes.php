@@ -1,10 +1,10 @@
 <?php
 
 //Server deets
-$servername = "db5006347811.hosting-data.io";
-$username = "dbu2007179";
-$password = "thomaspearson_";
-$dbname = "dbs5286729";
+$servername = "";
+$username = "";
+$password = "";
+$dbname = "";
 
 
 // Create connection
